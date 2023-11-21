@@ -198,3 +198,4 @@
 0464. 🎨 style: remove trailing whitespace
 0650. ✅ test: add unit test for quiz service
 0038. 🎨 style: rename variables for clarity
+0502. 📚 docs: update README with setup steps
