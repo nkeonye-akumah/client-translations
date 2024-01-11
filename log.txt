@@ -10,3 +10,4 @@
 0481. ✅ test: add unit test for quiz service
 0120. ✅ test: add integration test for /submit endpoint
 0390. 🎨 style: standardize quote style
+0423. ✅ test: mock database connection in test suite
