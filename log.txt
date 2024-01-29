@@ -208,3 +208,4 @@
 0884. 📚 docs: clarify environment setup
 0325. 🎨 style: rename variables for clarity
 0196. ♻️ chore: bump dependencies
+0115. 🚀 perf: reduce image load time
