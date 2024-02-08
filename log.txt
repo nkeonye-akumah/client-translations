@@ -407,3 +407,4 @@
 0233. 🚀 perf: lazy-load components
 0472. 🐛 fix: fix null pointer exception on login
 0444. ✅ test: add unit test for quiz service
+0463. 🚀 perf: reduce image load time
