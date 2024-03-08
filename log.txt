@@ -416,3 +416,4 @@
 0269. ✅ test: test user registration edge cases
 0374. 🎨 style: standardize quote style
 0960. ✅ test: increase coverage on auth module
+0008. 🚀 perf: reduce image load time
