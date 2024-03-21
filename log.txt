@@ -419,3 +419,4 @@
 0008. 🚀 perf: reduce image load time
 0150. 🎨 style: remove trailing whitespace
 0401. 🚀 perf: reduce image load time
+0496. ✅ test: add integration test for /submit endpoint
