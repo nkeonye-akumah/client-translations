@@ -426,3 +426,4 @@
 0828. ♻️ chore: add GitHub actions badge
 0028. 🎨 style: standardize quote style
 0338. ♻️ chore: add GitHub actions badge
+0997. ✅ test: increase coverage on auth module
