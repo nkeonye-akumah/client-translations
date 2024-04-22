@@ -428,3 +428,4 @@
 0338. ♻️ chore: add GitHub actions badge
 0997. ✅ test: increase coverage on auth module
 0898. 🐛 fix: fix broken CSS in mobile view
+0665. ♻️ chore: update .gitignore
