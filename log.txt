@@ -44,3 +44,4 @@
 0323. 📚 docs: clarify environment setup
 0326. 🚀 perf: cache repeated calculations
 0725. 🚀 perf: lazy-load components
+0947. 📚 docs: write FAQ section
