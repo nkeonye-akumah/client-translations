@@ -48,3 +48,4 @@
 0332. 🎨 style: standardize quote style
 0529. 📚 docs: write FAQ section
 0765. ♻️ chore: clean up unused files
+0760. 🐛 fix: resolve issue with date parsing
