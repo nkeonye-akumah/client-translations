@@ -437,3 +437,4 @@
 0609. 🐛 fix: handle 500 error in quiz API
 0853. 🔧 refactor: refactor quiz grading logic
 0333. 🚀 perf: cache repeated calculations
+0227. ✅ test: test user registration edge cases
