@@ -441,3 +441,4 @@
 0455. ♻️ chore: clean up unused files
 0867. 🔧 refactor: refactor quiz grading logic
 0399. ✅ test: mock database connection in test suite
+0895. ✨ feat: support email verification
