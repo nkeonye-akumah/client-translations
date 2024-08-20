@@ -448,3 +448,4 @@
 0996. ✅ test: test user registration edge cases
 0925. ✨ feat: add export to CSV option
 0051. ✨ feat: enable dark mode toggle
+0248. 🐛 fix: handle 500 error in quiz API
