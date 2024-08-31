@@ -74,3 +74,4 @@
 0797. 📚 docs: add API usage examples
 0057. 🚀 perf: optimize database query for quiz results
 0198. 📚 docs: clarify environment setup
+0650. ✅ test: add unit test for quiz service
