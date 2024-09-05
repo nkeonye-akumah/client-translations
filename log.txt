@@ -268,3 +268,4 @@
 0203. 🚀 perf: lazy-load components
 0542. 🔧 refactor: organize models into subfolders
 0413. ✅ test: add integration test for /submit endpoint
+0378. 🐛 fix: prevent crash on empty input
