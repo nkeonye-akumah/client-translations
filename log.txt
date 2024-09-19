@@ -453,3 +453,4 @@
 0091. ✨ feat: add user authentication
 0733. 🐛 fix: fix null pointer exception on login
 0670. ✨ feat: add export to CSV option
+0030. 🐛 fix: fix null pointer exception on login
