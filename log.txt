@@ -76,3 +76,4 @@
 0912. 📚 docs: document token refresh logic
 0518. ✨ feat: support email verification
 0900. 🐛 fix: handle 500 error in quiz API
+0846. ✨ feat: implement quiz timer feature
