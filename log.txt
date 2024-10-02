@@ -461,3 +461,4 @@
 0523. ♻️ chore: bump dependencies
 0301. 🎨 style: apply consistent indentation
 0629. 🔧 refactor: organize models into subfolders
+0727. ♻️ chore: add GitHub actions badge
