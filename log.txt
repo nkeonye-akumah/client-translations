@@ -479,3 +479,4 @@
 0921. 🐛 fix: correct typo in registration form
 0745. ✅ test: add unit test for quiz service
 0965. 🎨 style: reformat files with black
+0479. 🐛 fix: fix null pointer exception on login
