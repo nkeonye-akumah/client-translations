@@ -482,3 +482,4 @@
 0479. 🐛 fix: fix null pointer exception on login
 0283. ♻️ chore: add GitHub actions badge
 0652. 🔧 refactor: organize models into subfolders
+0339. 📚 docs: update README with setup steps
