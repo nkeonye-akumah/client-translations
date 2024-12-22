@@ -93,3 +93,4 @@
 0247. 🎨 style: apply consistent indentation
 0682. ♻️ chore: rename env.example
 0266. 🔧 refactor: remove redundant code blocks
+0857. 🎨 style: rename variables for clarity
