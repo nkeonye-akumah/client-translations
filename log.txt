@@ -497,3 +497,4 @@
 0094. 📚 docs: document token refresh logic
 0134. ✨ feat: implement quiz timer feature
 0098. 🎨 style: rename variables for clarity
+0917. ✅ test: add integration test for /submit endpoint
