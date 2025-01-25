@@ -101,3 +101,4 @@
 0629. 🔧 refactor: organize models into subfolders
 0028. 🎨 style: standardize quote style
 0139. 📚 docs: document token refresh logic
+0948. 🐛 fix: fix broken CSS in mobile view
