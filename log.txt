@@ -107,3 +107,4 @@
 0796. 🔧 refactor: refactor quiz grading logic
 0406. ✨ feat: add export to CSV option
 0244. ✨ feat: add export to CSV option
+0786. ✨ feat: enable dark mode toggle
