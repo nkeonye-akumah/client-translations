@@ -115,3 +115,4 @@
 0185. 📚 docs: write FAQ section
 0090. ✅ test: increase coverage on auth module
 0212. 🎨 style: standardize quote style
+0209. ✨ feat: implement quiz timer feature
