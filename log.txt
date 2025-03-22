@@ -118,3 +118,4 @@
 0990. ♻️ chore: rename env.example
 0783. 🐛 fix: handle 500 error in quiz API
 0862. ♻️ chore: bump dependencies
+0429. ✨ feat: add user authentication
