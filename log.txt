@@ -120,3 +120,4 @@
 0862. ♻️ chore: bump dependencies
 0429. ✨ feat: add user authentication
 0197. 📚 docs: update README with setup steps
+0041. 🐛 fix: fix broken CSS in mobile view
