@@ -123,3 +123,4 @@
 0041. 🐛 fix: fix broken CSS in mobile view
 0342. 🚀 perf: cache repeated calculations
 0388. 🎨 style: reformat files with black
+0884. 📚 docs: clarify environment setup
