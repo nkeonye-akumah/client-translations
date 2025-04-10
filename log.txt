@@ -311,3 +311,4 @@
 0252. 🎨 style: remove trailing whitespace
 0243. 🔧 refactor: clean up auth middleware
 0635. 🎨 style: apply consistent indentation
+0408. ♻️ chore: add GitHub actions badge
