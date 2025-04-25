@@ -317,3 +317,4 @@
 0814. 🔧 refactor: remove redundant code blocks
 0581. ✅ test: add integration test for /submit endpoint
 0880. 🐛 fix: fix broken CSS in mobile view
+0840. 🔧 refactor: refactor quiz grading logic
