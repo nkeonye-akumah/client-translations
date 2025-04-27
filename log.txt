@@ -129,3 +129,4 @@
 0356. 📚 docs: write FAQ section
 0075. ✅ test: mock database connection in test suite
 0697. ♻️ chore: bump dependencies
+0627. 📚 docs: document token refresh logic
