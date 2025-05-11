@@ -523,3 +523,4 @@
 0861. ♻️ chore: clean up unused files
 0160. ♻️ chore: bump dependencies
 0408. ♻️ chore: add GitHub actions badge
+0657. 🎨 style: standardize quote style
