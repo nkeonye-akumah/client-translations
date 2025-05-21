@@ -136,3 +136,4 @@
 0179. 🔧 refactor: split large controller into smaller functions
 0424. ✨ feat: add user authentication
 0694. 🎨 style: rename variables for clarity
+0039. ✅ test: add integration test for /submit endpoint
