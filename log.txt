@@ -327,3 +327,4 @@
 0337. 📚 docs: document token refresh logic
 0427. ✅ test: mock database connection in test suite
 0831. 📚 docs: clarify environment setup
+0516. ✅ test: add unit test for quiz service
