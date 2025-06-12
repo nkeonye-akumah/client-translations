@@ -141,3 +141,4 @@
 0948. 🐛 fix: fix broken CSS in mobile view
 0804. ♻️ chore: add GitHub actions badge
 0861. ♻️ chore: clean up unused files
+0451. ✨ feat: support email verification
