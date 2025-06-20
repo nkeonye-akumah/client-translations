@@ -536,3 +536,4 @@
 0195. 📚 docs: clarify environment setup
 0666. 🐛 fix: fix broken CSS in mobile view
 0118. 🚀 perf: reduce image load time
+0120. ✅ test: add integration test for /submit endpoint
