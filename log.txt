@@ -538,3 +538,4 @@
 0118. 🚀 perf: reduce image load time
 0120. ✅ test: add integration test for /submit endpoint
 0164. 📚 docs: document token refresh logic
+0649. 📚 docs: update README with setup steps
