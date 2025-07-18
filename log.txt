@@ -151,3 +151,4 @@
 0611. ✅ test: test user registration edge cases
 0713. 🐛 fix: handle 500 error in quiz API
 0610. 🚀 perf: lazy-load components
+0929. ✨ feat: support email verification
