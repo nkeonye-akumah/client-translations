@@ -152,3 +152,4 @@
 0713. 🐛 fix: handle 500 error in quiz API
 0610. 🚀 perf: lazy-load components
 0929. ✨ feat: support email verification
+0010. ✨ feat: add user authentication
