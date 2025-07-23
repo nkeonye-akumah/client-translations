@@ -149,3 +149,4 @@
 0038. 🎨 style: rename variables for clarity
 0662. ♻️ chore: clean up unused files
 0415. 🐛 fix: handle 500 error in quiz API
+0028. 🎨 style: standardize quote style
