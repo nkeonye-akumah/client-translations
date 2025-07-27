@@ -343,3 +343,4 @@
 0933. 📚 docs: clarify environment setup
 0041. 🐛 fix: fix broken CSS in mobile view
 0760. 🐛 fix: resolve issue with date parsing
+0121. ✨ feat: support email verification
