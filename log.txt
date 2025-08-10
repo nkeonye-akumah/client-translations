@@ -161,3 +161,4 @@
 0503. ♻️ chore: rename env.example
 0892. ✅ test: add unit test for quiz service
 0802. 🔧 refactor: remove redundant code blocks
+0605. ✨ feat: support email verification
