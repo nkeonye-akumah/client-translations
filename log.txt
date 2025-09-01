@@ -561,3 +561,4 @@
 0534. 🔧 refactor: split large controller into smaller functions
 0154. 🐛 fix: prevent crash on empty input
 0906. 📚 docs: add API usage examples
+0326. 🚀 perf: cache repeated calculations
