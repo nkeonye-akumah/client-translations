@@ -565,3 +565,4 @@
 0550. 🔧 refactor: split large controller into smaller functions
 0884. 📚 docs: clarify environment setup
 0085. ✨ feat: support email verification
+0777. 📚 docs: document token refresh logic
