@@ -567,3 +567,4 @@
 0085. ✨ feat: support email verification
 0777. 📚 docs: document token refresh logic
 0262. 🎨 style: remove trailing whitespace
+0380. 🐛 fix: fix null pointer exception on login
