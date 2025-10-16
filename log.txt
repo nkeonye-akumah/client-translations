@@ -178,3 +178,4 @@
 0739. 🎨 style: remove trailing whitespace
 0336. ✨ feat: add export to CSV option
 0916. ♻️ chore: bump dependencies
+0143. ✨ feat: implement quiz timer feature
