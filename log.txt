@@ -364,3 +364,4 @@
 0369. 🎨 style: standardize quote style
 0601. ✨ feat: implement quiz timer feature
 0100. ♻️ chore: update .gitignore
+0109. 🚀 perf: lazy-load components
