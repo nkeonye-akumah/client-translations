@@ -183,3 +183,4 @@
 0209. ✨ feat: implement quiz timer feature
 0357. ✅ test: add unit test for quiz service
 0176. 🔧 refactor: remove redundant code blocks
+0793. 📚 docs: clarify environment setup
