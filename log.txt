@@ -374,3 +374,4 @@
 0286. ✅ test: mock database connection in test suite
 0305. ✨ feat: enable dark mode toggle
 0922. 📚 docs: write FAQ section
+0212. 🎨 style: standardize quote style
