@@ -585,3 +585,4 @@
 0950. 🎨 style: reformat files with black
 0563. 📚 docs: clarify environment setup
 0105. 🐛 fix: correct typo in registration form
+0079. 🐛 fix: correct typo in registration form
