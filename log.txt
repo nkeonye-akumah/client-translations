@@ -385,3 +385,4 @@
 0275. 🎨 style: standardize quote style
 0376. 🎨 style: apply consistent indentation
 0856. 🐛 fix: fix null pointer exception on login
+0099. 🚀 perf: reduce image load time
