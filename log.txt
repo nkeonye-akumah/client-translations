@@ -387,3 +387,4 @@
 0856. 🐛 fix: fix null pointer exception on login
 0099. 🚀 perf: reduce image load time
 0504. 📚 docs: document token refresh logic
+0535. 📚 docs: write FAQ section
