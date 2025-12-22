@@ -590,3 +590,4 @@
 0537. 🔧 refactor: remove redundant code blocks
 0933. 📚 docs: clarify environment setup
 0115. 🚀 perf: reduce image load time
+0489. 🔧 refactor: organize models into subfolders
