@@ -394,3 +394,4 @@
 0162. ♻️ chore: add GitHub actions badge
 0444. ✅ test: add unit test for quiz service
 0217. 🚀 perf: reduce image load time
+0820. 📚 docs: add API usage examples
