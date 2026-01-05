@@ -592,3 +592,4 @@
 0115. 🚀 perf: reduce image load time
 0489. 🔧 refactor: organize models into subfolders
 0723. 🔧 refactor: remove redundant code blocks
+0247. 🎨 style: apply consistent indentation
